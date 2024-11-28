@@ -1,0 +1,57 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+127.0.0.1 wpad.npavglobal.net
+127.0.0.1 wpad.wifizone.org
+127.0.0.1 up.tftpd.net
+127.0.0.1 aws1.wipro-cloud.com
+127.0.0.1 s2.sunofheaven.com
+127.0.0.1 s3.infosys-backup.com
+127.0.0.1 146.70.149.206
+127.0.0.1 111.90.143.149
+127.0.0.1 upg9.npavupdate.com
+127.0.0.1 101.99.91.210
+127.0.0.1 111.90.151.61
+127.0.0.1 35.160.232.21
+127.0.0.1 52.26.155.60
+127.0.0.1 ebs.tcp4.me
+127.0.0.1 himeb.hns.to
+127.0.0.1 mssar.hns.to
+127.0.0.1 0x158.hns.to
+127.0.0.1 emcso.eth.limo
+127.0.0.1 158.69.201.47
+127.0.0.1 193.56.255.140
+127.0.0.1 3.18.173.217
+127.0.0.1 3.14.40.134
+127.0.0.1 3.21.2.2
+127.0.0.1 ccs.inpurchase.com
+127.0.0.1 ecsupdate.eth.limo
+127.0.0.1 ccs.skyweby.com
+127.0.0.1 cloudflare-ipfs.com
+127.0.0.1 emcso.eth.link
+127.0.0.1 bsi.dtdns.org
+127.0.0.1 104.17.96.13
+127.0.0.1 104.18.165.219
+127.0.0.1 104.18.166.219
+127.0.0.1 ecs.dtdns.org
+127.0.0.1 ccs.64-b.it
+127.0.0.1 101.99.91.162
