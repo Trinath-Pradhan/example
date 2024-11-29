@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!--creating a simple -->
+    <h2>Simple Table</h2>
+    <!--Table tag create the container-->
+    <!--The border attributes specifies the border width -->
+    <table border="1">
+    <tr>
+        <!--<th> table heading-->
+            <th>Header 1</th>
+            <th>Header 2</th>
+            <th>Header 3</th>
+    </tr>
+    <tr>
+        <!--<td> table defines a table data cell-->
+            <td>Row 1 , cell 1</td>
+            <td>Row 1 , cell2</td>
+            <td>Row 1 , cell3</td>
+    </tr>
+    <tr>
+       <td>Row 2 , cell 1</td>
+       <td>Row 2 , cell 2</td>
+       <td>Row 2 , cell 3</td>
+    </tr>
+</table>
+<!--Adding table caption and header-->
+<h2>Table caption and column Fraud</h2>
+<table border="1">
+    <caption>This is table caption </caption>
+    <!--The <caption>tag add a caption or title to the table-->
+        <thead>
+            <!--<thead>tag defines the table header group-->
+                <tr>
+                    <th scope="col">Column 1</th>
+                    <!--"scope" attributes specific the header scope(column)-->
+                    <th scope="col">column 2</th>
+                    <th scope="col">column 3</th>
+                </tr>
+                <tbody>
+                    <tr>
+                        <td>coll</td>
+                        <td>ice</td>
+                        <td>cream</td>
+                    </tr>
+                    <tr>
+                        <td>coll</td>
+                        <td>ice</td>
+                        <td>cream</td>
+                    </tr>
+                </tbody>
+                <tfoot>
+                    <!--<tfoot>tag defines the table footer group-->
+                    <tr>
+                        <td colspan="3">Total :2 rows</td>
+                        <!--The "colspan" attributes span cells across column-->
+                        
+                    </tr>
+                </tfoot>
+        </thead>
+</table>
+<h3>Row span Table creation</h3>
+<table border="1">
+    <tr>
+        <th rowspan="2">Header 1</th>
+        <th>Header 2</th>
+        <th>Header 3</th>
+    </tr>
+    <tr>
+        <td>Row 1 , cell1</td>
+        <td>Row 1 , cell2</td>
+    </tr>
+    <tr>
+        <td>Row 2, cell1</td>
+        <td>Row 2, cell2</td>
+        <td>Row 2, cell3</td>
+    </tr>
+</table>
+</body>
+</html>
