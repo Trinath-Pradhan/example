@@ -1,0 +1,21 @@
+body{
+    background-color:;
+   /*background: linear-gradient(white ,red ,green);
+   // background: radial-gradient(green,white,blue);*/
+  /* background-image:url("./a.webp");
+   background-repeat: no-repeat;
+   height: 100vh;
+   background-position: center center;*/
+}
+#myDiv
+{
+    height: 100vh;
+    color: blueviolet;
+}
+#para1{
+    height: 50%;
+   color: blueviolet;
+}
+#para2{
+    height: 50%;
+}
